@@ -112,16 +112,11 @@ nav {
   border-bottom-right-radius: 8px;
   border-bottom-left-radius: 8px;
 }
-
-
-
 /* prime */
 ul.primary li a {
   display: block;
   padding: 20px 30px;
   border-right: 1px solid #3D3D3D;
-  text-shadow: 1px 1px 1px #d6d6d6;
-
 }
 
 ul.primary li:last-child a {
@@ -214,7 +209,7 @@ ul.primary li:hover > a{
   }
   
   ul.sub li a {
-    background: #e22525;
+    background: #272727;
     border: none;
     color: #8B8B8B;
   }
@@ -224,7 +219,6 @@ ul.primary li:hover > a{
     background: none;
   }
 }
-
 
 section article:hover{
   box-shadow:0 0.1rem 0.4rem rgba(0,0,0, 0.3)
