@@ -175,8 +175,10 @@ ul.primary li:hover > a{
   color: #000;
 } 
 
-@media only screen and (max-width: 600px) {
-  .decor {
+/* @media only screen and (max-width: 600px) ¨{ */
+
+
+  /* .decor {
     padding: 3px;
   }
   
@@ -186,9 +188,10 @@ ul.primary li:hover > a{
   }
   
    li {
+    display:block;
     float: none;
   }
-  
+ 
   ul.primary li:hover a {
     background: none;
     color: #8B8B8B;
@@ -231,4 +234,4 @@ section article h2, section article p{
 
 .botón:hover{
   box-shadow:0 0.1rem 0.4rem rgba(0,0,0, 0.3)
-}
+} */
